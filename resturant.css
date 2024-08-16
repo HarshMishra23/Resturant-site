@@ -38,6 +38,7 @@ nav{
 }
 .menu li button{
     cursor: pointer;
+    margin: 1px;
 }
 
 
@@ -52,6 +53,7 @@ button{
     color: beige;
     
     margin-left: 18%
+
 }
 
 
