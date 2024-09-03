@@ -3,6 +3,7 @@
 
 ## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Project Title - Reastaurent menu
 
 
@@ -11,7 +12,6 @@
 
 
 ## Technology Used
-
 
 
 
@@ -31,5 +31,4 @@ https://mellifluous-cajeta-a405a7.netlify.app/
 ## Feedback
 
 If you have any feedback, please reach out to me at hm45676777776@gmail.com
-
 
