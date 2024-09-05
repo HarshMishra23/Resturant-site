@@ -1,4 +1,4 @@
-# Hi, I'm [Harsh Mishra](https://harsh-mishra-portfolio.netlify.app/) ! 👋
+# Hi, I'm Harsh Mishra! 👋
 
 
 ## 🚀 I'm a full-stack developer...
@@ -25,8 +25,8 @@ HTML, CSS
 https://mellifluous-cajeta-a405a7.netlify.app/
 
 ## Screenshots
-![alt](./image.png)
-![alt](./image%20copy.png)
+![alt](./Image//image.png)
+![alt](./Image/image%20copy.png)
 
 ## Feedback
 
