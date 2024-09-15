@@ -24,6 +24,11 @@
 ## 🛠 Skills
 HTML, CSS
 
+## 📱 Responsive Design
+
+
+#### The application is designed to be fully responsive across a wide range of devices, from mobile phones to large desktop screens.
+
 ## Demo | Netlify
 https://mellifluous-cajeta-a405a7.netlify.app/
 
