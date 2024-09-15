@@ -31,7 +31,7 @@ https://mellifluous-cajeta-a405a7.netlify.app/
 ![alt](./Image//image.png)
 ![alt](./Image/image%20copy.png)
 
-##🤝 Contributing
+## 🤝 Contributing
 
 #### Contributions are welcome! If you'd like to improve this project, feel free to submit a pull request or open an issue for discussion.
 
